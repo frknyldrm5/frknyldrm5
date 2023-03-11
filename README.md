@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate computer science student at Thomas More University of Applied Sciences.</h3>
+<h3 align="center">A passionate computer science student at <a href="https://www.thomasmore.be/opleidingen/graduaat/programmeren-dag-avondonderwijs">Thomas More University of Applied Sciences.<a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frknyldrm5&label=Profile%20views&color=0e75b6&style=flat" alt="frknyldrm5" /> </p>
 
